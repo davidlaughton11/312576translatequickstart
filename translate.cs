@@ -1,4 +1,9 @@
 /**
+        * David Laughton
+        * Febuary 26/2019
+        * Learn how to learn project translate sidebar.
+        */
+/**
  * @OnlyCurrentDoc
  *
  * The above comment directs Apps Script to limit the scope of file
